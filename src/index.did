@@ -1,0 +1,7 @@
+service: () -> {
+    agregarProducto: (text, text, text) -> ();
+    comprarProducto: (text, text) -> (text);
+    finalizarCompra: () -> (text);
+    getCarrito: () -> (text) query;
+    getInventario: () -> (text) query;
+}
